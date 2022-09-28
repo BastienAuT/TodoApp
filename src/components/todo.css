@@ -1,0 +1,17 @@
+.todo__list{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  border: 1px solid rgb(101, 159, 245);
+  margin-bottom: 10px !important;
+  background-color: aliceblue;
+  }
+
+  .css-tzssek-MuiSvgIcon-root {
+    margin-right: 2rem;
+  }
+
+  .css-1p823my-MuiListItem-root {
+    margin-left: -2rem;
+  }

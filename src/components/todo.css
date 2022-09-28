@@ -8,10 +8,8 @@
   background-color: aliceblue;
   }
 
-  .css-tzssek-MuiSvgIcon-root {
-    margin-right: 2rem;
-  }
+ li {
+  margin-left: -2rem;
+  margin-right: -5rem;
+ }
 
-  .css-1p823my-MuiListItem-root {
-    margin-left: -2rem;
-  }
